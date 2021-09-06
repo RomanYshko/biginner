@@ -1,0 +1,19 @@
+{
+    "name": "lessons/beginner",
+    "description": "lessons",
+    "type": "p",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ROMAN YSHKO",
+            "email": "yshkoroman@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liw\\": ""
+        }
+    }
+}
